@@ -1,0 +1,4 @@
+ID;Annual demand for spare parts at location i;Downtime costs per hour at location i;Min Annual production capacity of an AM machine;Max Annual production capacity of an AM machine;Lifespan of an AM machine in location i ;Production time at location i per spare part [in hours];Acquisition costs for an AM machine in location i including IT infrastructure;Production costs in i per spare part above step mu
+1;9000;12;0;10000;4;2;1000000;3
+2;7000;43;0;10000;5;1;2000000;2
+3;6000;23;0;10000;5;1;3000000;1
